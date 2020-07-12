@@ -5,7 +5,7 @@ WordPress VIP are enterprise WordPress and are the official digital experience p
 
 ![WordPress VIP banner](https://artiss.blog/wp-content/uploads/2020/07/wpvip-linkedin-profile-banner-1.jpg)
 
-I'm a WordPress plugin developer, contributor and international speaker. I'm passionate about inclusive language and statistics.
+I'm a [WordPress plugin developer](https://profiles.wordpress.org/dartiss/#content-plugins), [contributor](https://profiles.wordpress.org/dartiss/) and [international speaker](https://artiss.blog/speaking/). I'm passionate about inclusive language and statistics.
 
 I'm also a massive geek - ask me about all things Apple, Marvel, Star Wars and Star Trek 🖖🏼
 
