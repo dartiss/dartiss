@@ -1,5 +1,5 @@
 # David Artiss - @dartiss
-Hi, I'm David (he/him/his) - a Support Engineer and Hiring Lead for the [WordPress VIP](https://wpvip.com) team at [Automattic](https://automattic.com). 
+Hi, I'm David (he/him/his) 👋🏼 I'm a Support Engineer and Hiring Lead for the [WordPress VIP](https://wpvip.com) team at [Automattic](https://automattic.com). 
 
 WordPress VIP are enterprise WordPress and are the official digital experience platform from the makers of [WordPress.com](https://wordpress.com/).
 
@@ -22,7 +22,7 @@ I contribute to WordPress, in varying degrees, to the following...
 - Translation
 - WordPress.TV
 
-## Get in touch 🤙
+## Get in touch 🤙🏼
 - Twitter: https://twitter.com/DavidArtiss
 - Instagram: https://www.linkedin.com/in/dartiss/
 - Personal site: https://artiss.blog
