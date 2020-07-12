@@ -38,7 +38,9 @@ For ALL support questions about my plugins, please use the appropriate WordPress
 
 ## Gaming 🎮
 - PSN user name: Darkstorm40
+
 ![PSN Profile](https://card.psnprofiles.com/2/Darkstorm40.png)
+
 - Nintendo Switch friend code: SW-2993-1134-1615
 
 <p align="center">
