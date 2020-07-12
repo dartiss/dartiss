@@ -5,7 +5,7 @@ WordPress VIP are enterprise WordPress and are the official digital experience p
 
 ![WordPress VIP banner](https://artiss.blog/wp-content/uploads/2020/07/wpvip-linkedin-profile-banner-1.jpg)
 
-I'm a [WordPress plugin developer](https://profiles.wordpress.org/dartiss/#content-plugins), [contributor](https://profiles.wordpress.org/dartiss/) and [international speaker](https://artiss.blog/speaking/). I'm passionate about inclusive language and statistics.
+I'm a [WordPress plugin developer](https://profiles.wordpress.org/dartiss/#content-plugins), [contributor](https://profiles.wordpress.org/dartiss/) and [international speaker](https://artiss.blog/speaking/). I'm passionate about inclusive language and statistics. I'm also a regular, but average, gamer, having played poorly since the 1980s.
 
 I'm also a massive geek - ask me about all things Apple, Marvel, Star Wars and Star Trek 🖖🏼
 
@@ -16,17 +16,30 @@ Thank you ♥️
 
 ## WordPress Contributing 🤝
 I contribute to WordPress, in varying degrees, to the following...
-- [Core](https://make.wordpress.org/core/)
-- [Documentation](https://make.wordpress.org/docs/)
-- [Polyglots](https://make.wordpress.org/polyglots/)
-- [Support](https://make.wordpress.org/support/)
-- [WordPress.TV](https://make.wordpress.org/tv/)
+- Core: https://make.wordpress.org/core/
+- Documentation: https://make.wordpress.org/docs/
+- Polyglots: https://make.wordpress.org/polyglots/
+- Support: https://make.wordpress.org/support/
+- WordPress.TV: https://make.wordpress.org/tv/
 
-## Get in touch 🤙🏼
+## Follow me 🕵
 - Twitter: https://twitter.com/DavidArtiss
 - Instagram: https://www.linkedin.com/in/dartiss/
 - Personal site: https://artiss.blog
 - Occasional pictures: https://www.instagram.com/_dartiss/
+
+## Get in touch 🤙🏼
+- Send a Twitter DM: https://twitter.com/DavidArtiss
+- Send an Instagram message: https://www.linkedin.com/in/dartiss/
+- Use my Discord channel: https://discord.gg/GtwUUm
+- DM me in [the WordPress team Slack](https://make.wordpress.org/chat/) - I'm @dartiss
+
+For ALL support questions about my plugins, please use the appropriate WordPress.org forum.
+
+## Gaming 🎮
+- PSN user name: Darkstorm40
+![PSN Profile](https://card.psnprofiles.com/2/Darkstorm40.png)
+- Nintendo Switch friend code: SW-2993-1134-1615
 
 <p align="center">
 	<a href="https://github.com/dartiss"><img src="https://img.shields.io/github/followers/dartiss.svg?label=GitHub&style=social" alt="GitHub"></a>
