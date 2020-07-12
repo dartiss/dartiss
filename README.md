@@ -16,11 +16,11 @@ Thank you ♥️
 
 ## WordPress Contributing 🤝
 I contribute to WordPress, in varying degrees, to the following...
-- Core
-- Documentation
-- Support
-- Translation
-- WordPress.TV
+- [Core](https://make.wordpress.org/core/)
+- [Documentation](https://make.wordpress.org/docs/)
+- [Polyglots](https://make.wordpress.org/polyglots/)
+- [Support](https://make.wordpress.org/support/)
+- [WordPress.TV](https://make.wordpress.org/tv/)
 
 ## Get in touch 🤙🏼
 - Twitter: https://twitter.com/DavidArtiss
