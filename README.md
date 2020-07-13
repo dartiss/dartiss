@@ -30,7 +30,7 @@ I contribute to WordPress, in varying degrees, to the following...
 
 ## Get in touch 🤙🏼
 - Send a Twitter DM: https://twitter.com/DavidArtiss
-- Send an Instagram message: https://www.linkedin.com/in/dartiss/
+- Send a LinkedIn message: https://www.linkedin.com/in/dartiss/
 - Use my Discord channel: https://discord.gg/GtwUUm
 - DM me in [the WordPress team Slack](https://make.wordpress.org/chat/) - I'm @dartiss
 
