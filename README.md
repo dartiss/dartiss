@@ -44,9 +44,9 @@ For ALL support questions about my plugins, please use the appropriate WordPress
 
 <p align="center">
 	<a href="https://github.com/dartiss"><img src="https://img.shields.io/github/followers/dartiss.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://dev.to/dartiss"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="19px" alt="Dev.to"></a>	
 	<a href="https://twitter.com/DavidArtiss"><img src="https://img.shields.io/twitter/follow/DavidArtiss?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/dartiss"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://discord.gg/GtwUUm"><img src="https://img.shields.io/discord/731879333408276520?label=Discord" alt="Discord"></a>
 	<a href="https://www.twitch.tv/darkstorm40"><img src="https://img.shields.io/twitch/status/darkstorm40" alt="Twitch status"></a>
-	<a href="https://dev.to/dartiss"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to"></a>
 </p>
