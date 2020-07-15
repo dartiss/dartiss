@@ -9,7 +9,7 @@ I'm a [WordPress plugin developer](https://profiles.wordpress.org/dartiss/#conte
 
 I'm also a massive geek - ask me about all things Apple, Marvel, Star Wars and Star Trek 🖖🏼
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=dartiss&show_icons=true&bg_color=000000&text_color=d3d3d3&title_color=CFB53B)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=dartiss&show_icons=true&bg_color=171e24&text_color=fffffd&title_color=a4885c)
 
 ## WordPress Plugins 🔌
 Most of my repos are for my WordPress plugins, with many now archived and private. I work on these in my own time and take no donations for their continuation - I write and support them because I like doing so. For this reason, changes may be slow to be made but I will always try and provide support in the WordPress.org forums as quickly as I can. Indeed, that's where all support should be directed. Please use the repo's issues log to look for outstanding issues or to add new features that you'd like to see.
