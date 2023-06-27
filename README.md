@@ -25,10 +25,12 @@ I contribute to WordPress, in varying degrees, to the following...
 - WordPress.TV: https://make.wordpress.org/tv/
 
 ## Follow me 🕵
+- All the socials: https://artiss.me
 - Twitter: https://twitter.com/DavidArtiss
-- Instagram: https://www.linkedin.com/in/dartiss/
+- Mastodon: https://mastodon.social/@dartiss
+- LinkedIn: https://www.linkedin.com/in/dartiss/
 - Personal site: https://artiss.blog
-- Occasional pictures: https://www.instagram.com/_dartiss/
+- Instagram: https://www.instagram.com/_dartiss/
 
 ## Get in touch 🤙🏼
 - Send a Twitter DM: https://twitter.com/DavidArtiss
