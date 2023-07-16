@@ -27,7 +27,7 @@ I contribute to WordPress, in varying degrees, to the following...
 ## Follow me 🕵
 - All the socials: https://artiss.me
 - Twitter: [@DavidArtiss@twitter.com](https://twitter.com/DavidArtiss)
-- Threads: @_dartiss@threads.net
+- Threads: [@_dartiss@threads.net](https://www.threads.net/@_dartiss)
 - Mastodon: [@dartiss@mastodon.social](https://mastodon.social/@dartiss)
 - LinkedIn: [@dartiss@linkedin.com](https://www.linkedin.com/in/dartiss/)
 - Personal site: https://artiss.blog
