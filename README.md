@@ -26,15 +26,16 @@ I contribute to WordPress, in varying degrees, to the following...
 
 ## Follow me 🕵
 - All the socials: https://artiss.me
-- Twitter: https://twitter.com/DavidArtiss
-- Mastodon: https://mastodon.social/@dartiss
-- LinkedIn: https://www.linkedin.com/in/dartiss/
+- Twitter: [@DavidArtiss@twitter.com](https://twitter.com/DavidArtiss)
+- Threads: @_dartiss@threads.net
+- Mastodon: [@dartiss@mastodon.social](https://mastodon.social/@dartiss)
+- LinkedIn: [@dartiss@linkedin.com](https://www.linkedin.com/in/dartiss/)
 - Personal site: https://artiss.blog
-- Instagram: https://www.instagram.com/_dartiss/
+- Instagram: [@_dartiss@instagram.com](https://www.instagram.com/_dartiss/)
 
 ## Get in touch 🤙🏼
-- Send a Twitter DM: https://twitter.com/DavidArtiss
-- Send a LinkedIn message: https://www.linkedin.com/in/dartiss/
+- Send a Twitter DM: [@DavidArtiss@twitter.com](https://twitter.com/DavidArtiss)
+- Send a LinkedIn message: [@dartiss@linkedin.com](https://www.linkedin.com/in/dartiss/)
 - Use my Discord channel: https://discord.gg/GtwUUm
 - DM me in [the WordPress team Slack](https://make.wordpress.org/chat/) - I'm @dartiss
 
