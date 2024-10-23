@@ -1,7 +1,7 @@
 # David Artiss - @dartiss
 Hi, I'm David (he/him/his) 👋🏼 I'm a [WordPress VIP](https://wpvip.com) Customer Success Support Lead.
 
-WordPress VIP, part of [Automattic](https://automattic.com), are enterprise WordPress and are the official digital experience platform from the makers of [WordPress.com](https://wordpress.com/).
+WordPress VIP is the full platform for building, maintaining, scaling, and measuring your content experiences.
 
 ![WordPress VIP banner](https://artiss.blog/wp-content/uploads/2020/07/wpvip-linkedin-profile-banner-1.jpg)
 
