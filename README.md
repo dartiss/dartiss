@@ -17,6 +17,9 @@ Most of my repos are for my WordPress plugins, with many now archived and privat
 Thank you ♥️
 
 ## WordPress Contributing 🤝
+
+[![David's WordPress Activity](https://www.cardpress.us/card?username=dartiss&badges=true)](https://www.cardpress.us/)
+
 I contribute to WordPress, in varying degrees, to the following...
 - Core: https://make.wordpress.org/core/
 - Documentation: https://make.wordpress.org/docs/
